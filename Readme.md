@@ -1,4 +1,9 @@
 # Dufofipa
+## Main Window Overview - Light Theme
+<img width="886" height="450" alt="dufofipa-light-theme-overview-github" src="https://github.com/user-attachments/assets/1a677770-2a38-4db9-ae24-73c8e42ff111" />
+
+## Main Window Overview - Dark Theme
+<img width="886" height="450" alt="dufofipa-dark-theme-overview-github" src="https://github.com/user-attachments/assets/810547f8-a06a-486d-b37e-25ab912a5986" />
 
 ## Duplicate File, Duplicate Folder and Empty Folder Finder for Windows
 
@@ -58,15 +63,55 @@ If a required runtime is missing, the installer will guide you to the appropriat
 Dufofipa finds and lists the empty folders, duplicate files and duplicate folders according to user specified parameters from the selected drives/folders and subfolders. It  provides tools for further processing those listed files or folders. You can delete, copy or move files.
 
 ### Find Empty Folders
+<table>
+  <tr>
+    <td align="center">
+      <img width="500" height="268" alt="dufofipa-light-theme-result-empty-folders-github" src="https://github.com/user-attachments/assets/f5bd03d1-bc68-487c-8e4c-1cac2f1dc729" />
+      <br>
+      <em>Displaying Empty Folder List - Light Theme</em>
+    </td>
+    <td align="center">
+      <img width="500" height="268" alt="dufofipa-dark-theme-result-empty-folders-github" src="https://github.com/user-attachments/assets/b005f33c-cde8-4bc0-a27f-3c9276110210" />
+      <br>
+      <em>Displaying Empty Folder List - Dark Theme</em>
+    </td>
+  </tr>
+</table>
 
 Scan selected locations to identify folders that contain no files or contain folders which could be potentially treated as empty. See help for further information.
 
 ### Find Duplicate Files
-
+<table>
+  <tr>
+    <td align="center">
+      <img width="500" height="268" alt="dufofipa-light-theme-file-search-result-github" src="https://github.com/user-attachments/assets/f2960608-cf5e-4668-a8c1-d9f2636e3f1a" />
+      <br>
+      <em>Displaying Duplicate File List - Light Theme</em>
+    </td>
+    <td align="center">
+      <img width="500" height="268" alt="dufofipa-dark-theme-file-search-result-github" src="https://github.com/user-attachments/assets/4b3fdd10-b1c8-4bab-898e-5382a59c2fb8" />
+      <br>
+      <em>Displaying Duplicate File List - Dark Theme</em>
+    </td>
+  </tr>
+</table>
 Scan selected locations to identify files that may be duplicates and compare files to determine whether their contents and or names are identical.
 
 ### Find Duplicate Folders
-
+<table>
+  <tr>
+    <td align="center">
+      <img width="500" height="268" alt="dufofipa-light-theme-result-duplicate-folders-github" src="https://github.com/user-attachments/assets/e3b0abb6-bca0-4a76-a986-f69b969b2c4b" />
+      <br>
+      <em>Displaying Duplicate Folders with Files List - Light Theme</em>
+    </td>
+    <td align="center">
+      <img width="500" height="268" alt="dufofipa-dark-theme-result-duplicate-folders-github" src="https://github.com/user-attachments/assets/9fdd6ac1-334d-43dd-b104-8df26a1f89f4" />
+      <br>
+      <em>Displaying Duplicate Folders with Files List - Dark Theme</em>
+    </td>
+  </tr>
+</table>
 Identify and list duplicate folders having identical names and may contain files which may be identical in content or name. User can select parameters for the search based on options.  Further processing can be performed on the enlisted duplicate folders.
 
 ### Review Results Before Taking Action
@@ -245,6 +290,20 @@ For detailed release-specific information, see the release notes associated with
 ## Documentation
 
 Additional documentation and Help resources are provided with the application where applicable.
+<table>
+  <tr>
+    <td align="center">
+      <img width="1480" height="928" alt="dufofipa-light-theme-help-index-page-github" src="https://github.com/user-attachments/assets/88b11b17-fd61-46bd-ae4a-ccf5a2657753" />
+      <br>
+      <em>Displaying Integrated Help Index Page - Light Theme</em>
+    </td>
+    <td align="center">
+      <img width="1482" height="931" alt="dufofipa-light-theme-help-file-page-github" src="https://github.com/user-attachments/assets/ed1f9aa1-0cb8-4aed-8eb1-ff1d57f9b27d" />
+      <br>
+      <em>Displaying Integrated Help Folder Scan Permission Page - Light Theme</em>
+    </td>
+  </tr>
+</table>
 
 For application-specific guidance, refer to the integrated Help system included with Dufofipa.
 
