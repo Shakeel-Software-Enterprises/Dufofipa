@@ -63,6 +63,7 @@ If a required runtime is missing, the installer will guide you to the appropriat
 Dufofipa finds and lists the empty folders, duplicate files and duplicate folders according to user specified parameters from the selected drives/folders and subfolders. It  provides tools for further processing those listed files or folders. You can delete, copy or move files.
 
 ### Find Empty Folders
+
 <table>
   <tr>
     <td align="center">
@@ -81,6 +82,7 @@ Dufofipa finds and lists the empty folders, duplicate files and duplicate folder
 Scan selected locations to identify folders that contain no files or contain folders which could be potentially treated as empty. See help for further information.
 
 ### Find Duplicate Files
+
 <table>
   <tr>
     <td align="center">
