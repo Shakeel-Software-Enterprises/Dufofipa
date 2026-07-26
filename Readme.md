@@ -1,17 +1,17 @@
 # Dufofipa
 ## Main Window Overview - Light Theme
-<img width="886" height="450" alt="dufofipa-light-theme-overview-github" src="https://github.com/user-attachments/assets/1a677770-2a38-4db9-ae24-73c8e42ff111" />
+<img width="886" height="450" alt="dufofipa-light-theme-overview-github" src="docs/images/dufofipa-main-light.png" />
 
 ## Main Window Overview - Dark Theme
-<img width="886" height="450" alt="dufofipa-dark-theme-overview-github" src="https://github.com/user-attachments/assets/810547f8-a06a-486d-b37e-25ab912a5986" />
+<img width="886" height="450" alt="dufofipa-dark-theme-overview-github" src="docs/images/dufofipa-main-dark.png" />
 
 ## Duplicate File, Duplicate Folder and Empty Folder Finder for Windows
 
-**Dufofipa (Duplicate Folders and Files Probe Agent)** is a Windows desktop application designed to help users find and manage **duplicate files, duplicate folders containing files, and empty folders**.
+**Dufofipa (Duplicate Folders and Files Probe Agent)** is a Windows desktop application designed to help users find and manage **duplicate files, duplicate folders containing files, and empty fold[...] 
 
-Dufofipa allows you to scan selected locations, identify potential duplicates, compare files to determine whether their contents are identical, have identical names or both, review scan results, mark selected items, and perform supported file and folder management operations such as deletion, copying etc.
+Dufofipa allows you to scan selected locations, identify potential duplicates, compare files to determine whether their contents are identical, have identical names or both, review scan results, m[...]
 
-> **Important:** Always review scan results carefully before deleting, moving, or copying files or merging folders. Keep appropriate backups of important data before performing file-management operations.
+> **Important:** Always review scan results carefully before deleting, moving, or copying files or merging folders. Keep appropriate backups of important data before performing file-management ope[...]
 
 ---
 
@@ -60,19 +60,19 @@ If a required runtime is missing, the installer will guide you to the appropriat
 
 ## What Can Dufofipa Do?
 
-Dufofipa finds and lists the empty folders, duplicate files and duplicate folders according to user specified parameters from the selected drives/folders and subfolders. It  provides tools for further processing those listed files or folders. You can delete, copy or move files.
+Dufofipa finds and lists the empty folders, duplicate files and duplicate folders according to user specified parameters from the selected drives/folders and subfolders. It  provides tools for fu[...]
 
 ### Find Empty Folders
 
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-result-empty-folders-github" src="https://github.com/user-attachments/assets/f5bd03d1-bc68-487c-8e4c-1cac2f1dc729" />
+      <img width="500" height="268" alt="dufofipa-light-theme-result-empty-folders-github" src="docs/images/dufofipa-empty-light.png" />
       <br>
       <em>Displaying Empty Folder List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-result-empty-folders-github" src="https://github.com/user-attachments/assets/b005f33c-cde8-4bc0-a27f-3c9276110210" />
+      <img width="500" height="268" alt="dufofipa-dark-theme-result-empty-folders-github" src="docs/images/dufofipa-empty-dark.png" />
       <br>
       <em>Displaying Empty Folder List - Dark Theme</em>
     </td>
@@ -86,12 +86,12 @@ Scan selected locations to identify folders that contain no files or contain fol
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-file-search-result-github" src="https://github.com/user-attachments/assets/f2960608-cf5e-4668-a8c1-d9f2636e3f1a" />
+      <img width="500" height="268" alt="dufofipa-light-theme-file-search-result-github" src="docs/images/dufofipa-dupfiles-light.png" />
       <br>
       <em>Displaying Duplicate File List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-file-search-result-github" src="https://github.com/user-attachments/assets/4b3fdd10-b1c8-4bab-898e-5382a59c2fb8" />
+      <img width="500" height="268" alt="dufofipa-dark-theme-file-search-result-github" src="docs/images/dufofipa-dupfiles-dark.png" />
       <br>
       <em>Displaying Duplicate File List - Dark Theme</em>
     </td>
@@ -103,18 +103,18 @@ Scan selected locations to identify files that may be duplicates and compare fil
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-result-duplicate-folders-github" src="https://github.com/user-attachments/assets/e3b0abb6-bca0-4a76-a986-f69b969b2c4b" />
+      <img width="500" height="268" alt="dufofipa-light-theme-result-duplicate-folders-github" src="docs/images/dufofipa-dupfolders-light.png" />
       <br>
       <em>Displaying Duplicate Folders with Files List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-result-duplicate-folders-github" src="https://github.com/user-attachments/assets/9fdd6ac1-334d-43dd-b104-8df26a1f89f4" />
+      <img width="500" height="268" alt="dufofipa-dark-theme-result-duplicate-folders-github" src="docs/images/dufofipa-dupfolders-dark.png" />
       <br>
       <em>Displaying Duplicate Folders with Files List - Dark Theme</em>
     </td>
   </tr>
 </table>
-Identify and list duplicate folders having identical names and may contain files which may be identical in content or name. User can select parameters for the search based on options.  Further processing can be performed on the enlisted duplicate folders.
+Identify and list duplicate folders having identical names and may contain files which may be identical in content or name. User can select parameters for the search based on options.  Further p[...]
 
 ### Review Results Before Taking Action
 
@@ -136,7 +136,7 @@ Dufofipa is designed around a simple workflow:
 
 **Scan → Analyze → Review → Mark → Take Action**
 
-Rather than immediately deleting/moving/copying files after a scan, Dufofipa allows users to examine the results and select the files or folders on which they want to perform an operation. Among duplicates there is always a referenced file which cannot be deleted.
+Rather than immediately deleting/moving/copying files after a scan, Dufofipa allows users to examine the results and select the files or folders on which they want to perform an operation. Among [...]
 
 This is particularly important when working with duplicate files and folders because files with similar names are not necessarily identical.
 
@@ -268,7 +268,7 @@ The user is responsible for reviewing and confirming operations performed using 
 
 Dufofipa may create application data required for its operation, including temporary data used to support application operations.
 
-The application stores its temporary operational data in the appropriate user-accessible application data location rather than requiring routine write access to the application's installation directory.
+The application stores its temporary operational data in the appropriate user-accessible application data location rather than requiring routine write access to the application's installation dir[...]
 
 ---
 
@@ -295,12 +295,12 @@ Additional documentation and Help resources are provided with the application wh
 <table>
   <tr>
     <td align="center">
-      <img width="1480" height="928" alt="dufofipa-light-theme-help-index-page-github" src="https://github.com/user-attachments/assets/88b11b17-fd61-46bd-ae4a-ccf5a2657753" />
+      <img width="1480" height="928" alt="dufofipa-light-theme-help-index-page-github" src="docs/images/dufofipa-help-index-light.png" />
       <br>
       <em>Displaying Integrated Help Index Page - Light Theme</em>
     </td>
     <td align="center">
-      <img width="1482" height="931" alt="dufofipa-light-theme-help-file-page-github" src="https://github.com/user-attachments/assets/ed1f9aa1-0cb8-4aed-8eb1-ff1d57f9b27d" />
+      <img width="1482" height="931" alt="dufofipa-light-theme-help-file-page-github" src="docs/images/dufofipa-help-file-light.png" />
       <br>
       <em>Displaying Integrated Help Folder Scan Permission Page - Light Theme</em>
     </td>
@@ -388,7 +388,7 @@ Dufofipa is provided subject to the terms of the applicable End User License Agr
 
 Although care is taken in the development and testing of the application, users should maintain appropriate backups of important data before performing file-management operations.
 
-Shakeel Software Enterprises is not responsible for data loss resulting from the use or misuse of the software, to the extent permitted by applicable law and subject to the terms of the applicable End User License Agreement.
+Shakeel Software Enterprises is not responsible for data loss resulting from the use or misuse of the software, to the extent permitted by applicable law and subject to the terms of the applicabl[...]
 
 ---
 
