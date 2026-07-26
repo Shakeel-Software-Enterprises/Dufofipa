@@ -7,11 +7,11 @@
 
 ## Duplicate File, Duplicate Folder and Empty Folder Finder for Windows
 
-**Dufofipa (Duplicate Folders and Files Probe Agent)** is a Windows desktop application designed to help users find and manage **duplicate files, duplicate folders containing files, and empty fold[...] 
+**Dufofipa (Duplicate Folders and Files Probe Agent)** is a Windows desktop application designed to help users find and manage **duplicate files, duplicate folders containing files, and empty folders**.
 
-Dufofipa allows you to scan selected locations, identify potential duplicates, compare files to determine whether their contents are identical, have identical names or both, review scan results, m[...]
+Dufofipa allows you to scan selected locations, identify potential duplicates, compare files to determine whether their contents are identical, have identical names or both, review scan results, mark items for operations and then perform supported operations on them.
 
-> **Important:** Always review scan results carefully before deleting, moving, or copying files or merging folders. Keep appropriate backups of important data before performing file-management ope[...]
+> **Important:** Always review scan results carefully before deleting, moving, or copying files or merging folders. Keep appropriate backups of important data before performing file-management operations.
 
 ---
 
@@ -19,13 +19,15 @@ Dufofipa allows you to scan selected locations, identify potential duplicates, c
 
 ### Latest Release
 
-**[Download the latest version of Dufofipa](#)**
+**[Download Dufofipa v1.1.0 from GitHub Releases](https://github.com/Shakeel-Software-Enterprises/Dufofipa/releases/tag/v1.1.0)**
 
 Dufofipa is distributed through the official **Shakeel Software Enterprises GitHub repository**.
 
 Two installation options are available:
 
 ### Recommended: Standalone Version
+
+**[Download: Dufofipa-Setup-1.1.0-Standalone.exe](https://github.com/Shakeel-Software-Enterprises/Dufofipa/releases/download/v1.1.0/Dufofipa-Setup-1.1.0-Standalone.exe)**
 
 The **Standalone** version is a self-contained installation that includes the required .NET runtime components.
 
@@ -35,9 +37,11 @@ Choose this version if you:
 * Prefer an installation that does not require a separate .NET runtime installation.
 * Want the simpler installation experience.
 
-The **Microsoft Edge WebView2 Runtime** is still required for Dufofipa's integrated Help system. The Standalone installer is larger because it includes the required WebView2 Runtime installer.
+The **Microsoft Edge WebView2 Runtime** is still required for Dufofipa's integrated Help system. The Standalone installer is larger because it includes the required WebView2 Runtime installer.
 
 ### Standard Version
+
+**[Download: Dufofipa-Setup-1.1.0.exe](https://github.com/Shakeel-Software-Enterprises/Dufofipa/releases/download/v1.1.0/Dufofipa-Setup-1.1.0.exe)**
 
 The **Standard** version is a framework-dependent installation.
 
@@ -60,7 +64,7 @@ If a required runtime is missing, the installer will guide you to the appropriat
 
 ## What Can Dufofipa Do?
 
-Dufofipa finds and lists the empty folders, duplicate files and duplicate folders according to user specified parameters from the selected drives/folders and subfolders. It  provides tools for fu[...]
+Dufofipa finds and lists the empty folders, duplicate files and duplicate folders according to user specified parameters from the selected drives/folders and subfolders. It  provides tools for further analysis and management of the identified items.
 
 ### Find Empty Folders
 
@@ -114,7 +118,7 @@ Scan selected locations to identify files that may be duplicates and compare fil
     </td>
   </tr>
 </table>
-Identify and list duplicate folders having identical names and may contain files which may be identical in content or name. User can select parameters for the search based on options.  Further p[...]
+Identify and list duplicate folders having identical names and may contain files which may be identical in content or name. User can select parameters for the search based on options.  Further parameters can be set for folder and file comparison operations.
 
 ### Review Results Before Taking Action
 
@@ -136,7 +140,7 @@ Dufofipa is designed around a simple workflow:
 
 **Scan → Analyze → Review → Mark → Take Action**
 
-Rather than immediately deleting/moving/copying files after a scan, Dufofipa allows users to examine the results and select the files or folders on which they want to perform an operation. Among [...]
+Rather than immediately deleting/moving/copying files after a scan, Dufofipa allows users to examine the results and select the files or folders on which they want to perform an operation. Among other things, this feature allows users to verify duplicates before any operations are executed on the files or folders.
 
 This is particularly important when working with duplicate files and folders because files with similar names are not necessarily identical.
 
@@ -268,7 +272,7 @@ The user is responsible for reviewing and confirming operations performed using 
 
 Dufofipa may create application data required for its operation, including temporary data used to support application operations.
 
-The application stores its temporary operational data in the appropriate user-accessible application data location rather than requiring routine write access to the application's installation dir[...]
+The application stores its temporary operational data in the appropriate user-accessible application data location rather than requiring routine write access to the application's installation directory or system-protected folders.
 
 ---
 
@@ -285,7 +289,7 @@ This release provides two installation options:
 * Standard Installer
 * Standalone Installer
 
-For detailed release-specific information, see the release notes associated with the corresponding GitHub Release.
+For detailed release-specific information, see the [release notes associated with the v1.1.0 GitHub Release](https://github.com/Shakeel-Software-Enterprises/Dufofipa/releases/tag/v1.1.0).
 
 ---
 
@@ -318,6 +322,8 @@ Dufofipa is distributed subject to the applicable **End User License Agreement (
 Please read the EULA before installing or using the software.
 
 The EULA is provided with the official release package and is also presented during installation.
+
+**[Download EULA: Dufofipa-EULA.docx](https://github.com/Shakeel-Software-Enterprises/Dufofipa/releases/download/v1.1.0/Dufofipa-EULA.docx)**
 
 By installing or using Dufofipa, you agree to the applicable terms and conditions of the EULA.
 
@@ -388,7 +394,7 @@ Dufofipa is provided subject to the terms of the applicable End User License Agr
 
 Although care is taken in the development and testing of the application, users should maintain appropriate backups of important data before performing file-management operations.
 
-Shakeel Software Enterprises is not responsible for data loss resulting from the use or misuse of the software, to the extent permitted by applicable law and subject to the terms of the applicabl[...]
+Shakeel Software Enterprises is not responsible for data loss resulting from the use or misuse of the software, to the extent permitted by applicable law and subject to the terms of the applicable End User License Agreement.
 
 ---
 
