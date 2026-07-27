@@ -76,7 +76,7 @@ Dufofipa finds and lists the empty folders, duplicate files and duplicate folder
       <em>Displaying Empty Folder List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-result-empty-folders-github" src="docs/images/dufofipa-empty-dark.png" />
+      <img width="500" height="268" alt="dufofipa-dark-theme-result-empty-folders" src="docs/images/dufofipa-dark-theme-result-empty-folders-github.png" />
       <br>
       <em>Displaying Empty Folder List - Dark Theme</em>
     </td>
@@ -90,12 +90,12 @@ Scan selected locations to identify folders that contain no files or contain fol
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-file-search-result-github" src="docs/images/dufofipa-dupfiles-light.png" />
+      <img width="500" height="268" alt="dufofipa-light-theme-file-search-result" src="docs/images/dufofipa-light-theme-file-search-result-github.png" />
       <br>
       <em>Displaying Duplicate File List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-file-search-result-github" src="docs/images/dufofipa-dupfiles-dark.png" />
+      <img width="500" height="268" alt="dufofipa-dark-theme-file-search-result" src="docs/images/ddufofipa-dark-theme-file-search-result-github.png" />
       <br>
       <em>Displaying Duplicate File List - Dark Theme</em>
     </td>
