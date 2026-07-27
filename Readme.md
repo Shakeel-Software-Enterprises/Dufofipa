@@ -95,7 +95,7 @@ Scan selected locations to identify folders that contain no files or contain fol
       <em>Displaying Duplicate File List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-file-search-result" src="docs/images/ddufofipa-dark-theme-file-search-result-github.png" />
+      <img width="500" height="268" alt="dufofipa-dark-theme-file-search-result" src="docs/images/dufofipa-dark-theme-file-search-result-github.png" />
       <br>
       <em>Displaying Duplicate File List - Dark Theme</em>
     </td>
