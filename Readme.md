@@ -107,12 +107,12 @@ Scan selected locations to identify files that may be duplicates and compare fil
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-result-duplicate-folders-github" src="docs/images/dufofipa-dupfolders-light.png" />
+      <img width="500" height="268" alt="dufofipa-light-theme-result-duplicate-folders" src="docs/images/dufofipa-light-theme-result-duplicate-folders-github.png" />
       <br>
       <em>Displaying Duplicate Folders with Files List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-result-duplicate-folders-github" src="docs/images/dufofipa-dupfolders-dark.png" />
+      <img width="500" height="268" alt="dufofipa-dark-theme-result-duplicate-folders" src="docs/images/dufofipa-dark-theme-result-duplicate-folders-github.png" />
       <br>
       <em>Displaying Duplicate Folders with Files List - Dark Theme</em>
     </td>
