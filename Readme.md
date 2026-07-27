@@ -71,7 +71,7 @@ Dufofipa finds and lists the empty folders, duplicate files and duplicate folder
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-result-empty-folders-github" src="docs/images/dufofipa-empty-light.png" />
+      <img width="500" height="268" alt="dufofipa-light-theme-result-empty-folders" src="docs/images/dufofipa-light-theme-result-empty-folders-github.png" />
       <br>
       <em>Displaying Empty Folder List - Light Theme</em>
     </td>
