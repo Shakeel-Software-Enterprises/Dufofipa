@@ -299,12 +299,12 @@ Additional documentation and Help resources are provided with the application wh
 <table>
   <tr>
     <td align="center">
-      <img width="1480" height="928" alt="dufofipa-light-theme-help-index-page-github" src="docs/images/dufofipa-help-index-light.png" />
+      <img width="1480" height="928" alt="dufofipa-light-theme-help-index-page" src="docs/images/dufofipa-light-theme-help-index-page-github.png" />
       <br>
       <em>Displaying Integrated Help Index Page - Light Theme</em>
     </td>
     <td align="center">
-      <img width="1482" height="931" alt="dufofipa-light-theme-help-file-page-github" src="docs/images/dufofipa-help-file-light.png" />
+      <img width="1482" height="931" alt="dufofipa-light-theme-help-file-page" src="docs/images/dufofipa-light-theme-help-file-page-github.png" />
       <br>
       <em>Displaying Integrated Help Folder Scan Permission Page - Light Theme</em>
     </td>
