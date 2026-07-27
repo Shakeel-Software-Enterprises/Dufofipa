@@ -1,4 +1,9 @@
 # Dufofipa
+
+## Duplicate File, Duplicate Folder and Empty Folder Finder for Windows
+
+**Dufofipa (Duplicate Folders and Files Probe Agent)** is a Windows desktop application designed to help users find and manage **duplicate files, duplicate folders containing files, and empty folders**.
+
 ## Main Window Overview - Light Theme
 <img width="886" height="450" alt="dufofipa-light-theme-overview" src="docs/images/dufofipa-light-theme-overview-github.png" />
 
