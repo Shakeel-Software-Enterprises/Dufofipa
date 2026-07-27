@@ -1,9 +1,14 @@
 # Dufofipa
+
+## Duplicate File, Duplicate Folder and Empty Folder Finder for Windows
+
+**Dufofipa (Duplicate Folders and Files Probe Agent)** is a Windows desktop application designed to help users find and manage **duplicate files, duplicate folders containing files, and empty folders**.
+
 ## Main Window Overview - Light Theme
-<img width="886" height="450" alt="dufofipa-light-theme-overview-github" src="docs/images/dufofipa-main-light.png" />
+<img width="886" height="450" alt="dufofipa-light-theme-overview" src="docs/images/dufofipa-light-theme-overview-github.png" />
 
 ## Main Window Overview - Dark Theme
-<img width="886" height="450" alt="dufofipa-dark-theme-overview-github" src="docs/images/dufofipa-main-dark.png" />
+<img width="886" height="450" alt="dufofipa-dark-theme-overview" src="docs/images/dufofipa-dark-theme-overview-github.png" />
 
 ## Duplicate File, Duplicate Folder and Empty Folder Finder for Windows
 
@@ -71,12 +76,12 @@ Dufofipa finds and lists the empty folders, duplicate files and duplicate folder
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-result-empty-folders-github" src="docs/images/dufofipa-empty-light.png" />
+      <img width="500" height="268" alt="dufofipa-light-theme-result-empty-folders" src="docs/images/dufofipa-light-theme-result-empty-folders-github.png" />
       <br>
       <em>Displaying Empty Folder List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-result-empty-folders-github" src="docs/images/dufofipa-empty-dark.png" />
+      <img width="500" height="268" alt="dufofipa-dark-theme-result-empty-folders" src="docs/images/dufofipa-dark-theme-result-empty-folders-github.png" />
       <br>
       <em>Displaying Empty Folder List - Dark Theme</em>
     </td>
@@ -90,12 +95,12 @@ Scan selected locations to identify folders that contain no files or contain fol
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-file-search-result-github" src="docs/images/dufofipa-dupfiles-light.png" />
+      <img width="500" height="268" alt="dufofipa-light-theme-file-search-result" src="docs/images/dufofipa-light-theme-file-search-result-github.png" />
       <br>
       <em>Displaying Duplicate File List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-file-search-result-github" src="docs/images/dufofipa-dupfiles-dark.png" />
+      <img width="500" height="268" alt="dufofipa-dark-theme-file-search-result" src="docs/images/dufofipa-dark-theme-file-search-result-github.png" />
       <br>
       <em>Displaying Duplicate File List - Dark Theme</em>
     </td>
@@ -107,12 +112,12 @@ Scan selected locations to identify files that may be duplicates and compare fil
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-result-duplicate-folders-github" src="docs/images/dufofipa-dupfolders-light.png" />
+      <img width="500" height="268" alt="dufofipa-light-theme-result-duplicate-folders" src="docs/images/dufofipa-light-theme-result-duplicate-folders-github.png" />
       <br>
       <em>Displaying Duplicate Folders with Files List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-result-duplicate-folders-github" src="docs/images/dufofipa-dupfolders-dark.png" />
+      <img width="500" height="268" alt="dufofipa-dark-theme-result-duplicate-folders" src="docs/images/dufofipa-dark-theme-result-duplicate-folders-github.png" />
       <br>
       <em>Displaying Duplicate Folders with Files List - Dark Theme</em>
     </td>
@@ -299,12 +304,12 @@ Additional documentation and Help resources are provided with the application wh
 <table>
   <tr>
     <td align="center">
-      <img width="1480" height="928" alt="dufofipa-light-theme-help-index-page-github" src="docs/images/dufofipa-help-index-light.png" />
+      <img width="1480" height="928" alt="dufofipa-light-theme-help-index-page" src="docs/images/dufofipa-light-theme-help-index-page-github.png" />
       <br>
       <em>Displaying Integrated Help Index Page - Light Theme</em>
     </td>
     <td align="center">
-      <img width="1482" height="931" alt="dufofipa-light-theme-help-file-page-github" src="docs/images/dufofipa-help-file-light.png" />
+      <img width="1482" height="931" alt="dufofipa-light-theme-help-file-page" src="docs/images/dufofipa-light-theme-help-file-page-github.png" />
       <br>
       <em>Displaying Integrated Help Folder Scan Permission Page - Light Theme</em>
     </td>
