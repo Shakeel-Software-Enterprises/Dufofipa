@@ -1,6 +1,6 @@
 # Dufofipa
 ## Main Window Overview - Light Theme
-<img width="886" height="450" alt="dufofipa-light-theme-overview-github" src="docs/images/dufofipa-main-light.png" />
+<img width="886" height="450" alt="dufofipa-light-theme-overview-github" src="docs/images/dufofipa-light-theme-overview-github.png" />
 
 ## Main Window Overview - Dark Theme
 <img width="886" height="450" alt="dufofipa-dark-theme-overview-github" src="docs/images/dufofipa-main-dark.png" />
