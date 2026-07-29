@@ -5,18 +5,24 @@
 **Dufofipa (Duplicate Folders and Files Probe Agent)** is a Windows desktop application designed to help users find and manage **duplicate files, duplicate folders containing files, and empty folders**.
 
 ## Main Window Overview - Light Theme
-<img width="886" height="450" alt="dufofipa-light-theme-overview" src="docs/images/dufofipa-light-theme-overview-github.png" />
+<img width="886" height="450" alt="Dufofipa duplicate file finder main dashboard interface on Windows" src="docs/images/dufofipa-light-theme-overview-github.png" />
 
 ## Main Window Overview - Dark Theme
-<img width="886" height="450" alt="dufofipa-dark-theme-overview" src="docs/images/dufofipa-dark-theme-overview-github.png" />
-
-## Duplicate File, Duplicate Folder and Empty Folder Finder for Windows
-
-**Dufofipa (Duplicate Folders and Files Probe Agent)** is a Windows desktop application designed to help users find and manage **duplicate files, duplicate folders containing files, and empty folders**.
+<img width="886" height="450" alt="Dufofipa dark mode duplicate file management software on Windows" src="docs/images/dufofipa-dark-theme-overview-github.png" />
 
 Dufofipa allows you to scan selected locations, identify potential duplicates, compare files to determine whether their contents are identical, have identical names or both, review scan results, mark items for operations and then perform supported operations on them.
 
 > **Important:** Always review scan results carefully before deleting, moving, or copying files or merging folders. Keep appropriate backups of important data before performing file-management operations.
+
+---
+
+## Key Features
+
+*   **Safe Duplicate Detection:** Byte-to-byte file comparison ensures you only manage true duplicates.
+*   **Deep Folder Cleaning:** Easily identify and clean up empty directories to streamline your file structure.
+*   **Privacy-First Local Processing:** All scanning and operations happen strictly on your local machine—no cloud uploads required.
+*   **Intuitive UI/UX:** A clean, modern interface featuring carefully designed functional iconography for seamless file operations, such as marking, deleting, or renaming items.
+*   **Modern Architecture:** Built specifically for Windows desktop environments using robust .NET 10 technology.
 
 ---
 
@@ -69,19 +75,19 @@ If a required runtime is missing, the installer will guide you to the appropriat
 
 ## What Can Dufofipa Do?
 
-Dufofipa finds and lists the empty folders, duplicate files and duplicate folders according to user specified parameters from the selected drives/folders and subfolders. It  provides tools for further analysis and management of the identified items.
+Dufofipa finds and lists the empty folders, duplicate files and duplicate folders according to user specified parameters from the selected drives/folders and subfolders. It provides tools for further analysis and management of the identified items.
 
-### Find Empty Folders
+### Clean Up and Delete Empty Folders
 
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-result-empty-folders" src="docs/images/dufofipa-light-theme-result-empty-folders-github.png" />
+      <img width="500" height="268" alt="List of empty folders found by Dufofipa Windows utility" src="docs/images/dufofipa-light-theme-result-empty-folders-github.png" />
       <br>
       <em>Displaying Empty Folder List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-result-empty-folders" src="docs/images/dufofipa-dark-theme-result-empty-folders-github.png" />
+      <img width="500" height="268" alt="Empty folder scanner results in dark theme for Windows" src="docs/images/dufofipa-dark-theme-result-empty-folders-github.png" />
       <br>
       <em>Displaying Empty Folder List - Dark Theme</em>
     </td>
@@ -90,17 +96,17 @@ Dufofipa finds and lists the empty folders, duplicate files and duplicate folder
 
 Scan selected locations to identify folders that contain no files or contain folders which could be potentially treated as empty. See help for further information.
 
-### Find Duplicate Files
+### Find and Remove Duplicate Files to Free Up Disk Space
 
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-file-search-result" src="docs/images/dufofipa-light-theme-file-search-result-github.png" />
+      <img width="500" height="268" alt="Duplicate files search results showing identical files for deletion" src="docs/images/dufofipa-light-theme-file-search-result-github.png" />
       <br>
       <em>Displaying Duplicate File List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-file-search-result" src="docs/images/dufofipa-dark-theme-file-search-result-github.png" />
+      <img width="500" height="268" alt="Windows utility identifying duplicate files and freeing disk space" src="docs/images/dufofipa-dark-theme-file-search-result-github.png" />
       <br>
       <em>Displaying Duplicate File List - Dark Theme</em>
     </td>
@@ -108,22 +114,22 @@ Scan selected locations to identify folders that contain no files or contain fol
 </table>
 Scan selected locations to identify files that may be duplicates and compare files to determine whether their contents and or names are identical.
 
-### Find Duplicate Folders
+### Identify and Manage Duplicate Folders
 <table>
   <tr>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-light-theme-result-duplicate-folders" src="docs/images/dufofipa-light-theme-result-duplicate-folders-github.png" />
+      <img width="500" height="268" alt="Dufofipa detecting duplicate folders with identical files" src="docs/images/dufofipa-light-theme-result-duplicate-folders-github.png" />
       <br>
       <em>Displaying Duplicate Folders with Files List - Light Theme</em>
     </td>
     <td align="center">
-      <img width="500" height="268" alt="dufofipa-dark-theme-result-duplicate-folders" src="docs/images/dufofipa-dark-theme-result-duplicate-folders-github.png" />
+      <img width="500" height="268" alt="Scan results showing duplicate directories on Windows drive" src="docs/images/dufofipa-dark-theme-result-duplicate-folders-github.png" />
       <br>
       <em>Displaying Duplicate Folders with Files List - Dark Theme</em>
     </td>
   </tr>
 </table>
-Identify and list duplicate folders having identical names and may contain files which may be identical in content or name. User can select parameters for the search based on options.  Further parameters can be set for folder and file comparison operations.
+Identify and list duplicate folders having identical names and may contain files which may be identical in content or name. User can select parameters for the search based on options. Further parameters can be set for folder and file comparison operations.
 
 ### Review Results Before Taking Action
 
@@ -304,12 +310,12 @@ Additional documentation and Help resources are provided with the application wh
 <table>
   <tr>
     <td align="center">
-      <img width="1480" height="928" alt="dufofipa-light-theme-help-index-page" src="docs/images/dufofipa-light-theme-help-index-page-github.png" />
+      <img width="1480" height="928" alt="Dufofipa integrated help system manual and index page" src="docs/images/dufofipa-light-theme-help-index-page-github.png" />
       <br>
       <em>Displaying Integrated Help Index Page - Light Theme</em>
     </td>
     <td align="center">
-      <img width="1482" height="931" alt="dufofipa-light-theme-help-file-page" src="docs/images/dufofipa-light-theme-help-file-page-github.png" />
+      <img width="1482" height="931" alt="Instructions for folder scan permissions in Dufofipa help documentation" src="docs/images/dufofipa-light-theme-help-file-page-github.png" />
       <br>
       <em>Displaying Integrated Help Folder Scan Permission Page - Light Theme</em>
     </td>
@@ -317,6 +323,19 @@ Additional documentation and Help resources are provided with the application wh
 </table>
 
 For application-specific guidance, refer to the integrated Help system included with Dufofipa.
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+**Is it safe to delete duplicate files?**
+Yes, it depends upon selection-option for duplicate file search, but you should always review the results carefully. If chosen Dufofipa uses byte-to-byte comparison and file-name comparison to ensure files are truly identical before you delete them, but it is always recommended to back up important personal data first.
+
+**Do I need an internet connection to scan for duplicates?**
+No. All scanning and file-management operations are performed locally on your machine. Your private files are never uploaded to a cloud service.
+
+**Does Dufofipa work on modern Windows systems?**
+Yes, Dufofipa requires a 64-bit Windows environment and runs on the Microsoft .NET 10 Windows Desktop Runtime. 
 
 ---
 
